@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jiehui Chen"
+  name             : "Jiehui Chen, PhD"
   avatar           : "/assets/images/jiehui.png"
   bio              : "Keep **smiling**"
   location         : "Boston, MA"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jiehuichen/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
